@@ -1,0 +1,14 @@
+# Example YAML file
+
+person:
+  name: "John Doe"
+  age: 30
+  email: "john.doe@example.com"
+  skills:
+    - Python
+    - JavaScript
+    - YAML
+  address:
+    street: "123 Main St"
+    city: "Sampleville"
+    zip: "12345"
